@@ -1,18 +1,62 @@
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
+## Project name: 
+Toptimes
+
+## Overview
+Toptimes is a web application developed to access the NY Times Most Popular Articles API and display a list of articles. Users can view additional details about a selected article.
+
+## Features
+Accesses the NY Times Most Popular Articles API.\
+Displays a list of articles.\
+Allows users to view additional details about a selected article.\
+
 In the project directory, you can run:
+
+## Installation
+
+### Clone the repository:
+
+https://github.com/srinivas999/toptimes.git
+
+## Navigate to the project directory:
+
+cd toptimes
+
+## Install dependencies:
+
+npm install
+
+## Usage
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open your web browser and navigate to http://localhost:3000. \
+
+Explore the list of articles and click on an article to view additional details.\
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+
+## Technologies Used
+React.js \
+NY Times Most Popular Articles API \
+JavaScript \
+HTML \
+CSS \
+
+## Acknowledgements
+This project was created as part of a learning experience. \ 
+Thanks to NY Times for providing the Most Popular Articles API. 
 
 ### `npm test`
 

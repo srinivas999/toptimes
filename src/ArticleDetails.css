@@ -1,0 +1,18 @@
+
+.article-details {
+    padding: 10px;
+  }
+  
+  .article-details p {
+    margin-bottom: 10px;
+  }
+  
+  .article-details a {
+    color: blue;
+    text-decoration: underline;
+  }
+  
+  .article-details a:hover {
+    text-decoration: none;
+  }
+  
